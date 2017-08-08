@@ -1,0 +1,11 @@
+.navbar{
+	background-color: #0098db;
+}
+hr{
+	border: 1px solid orange;
+}
+html , body{
+    width: 100%;
+    height: 100%;
+    margin: 0 0 0 0;    
+}
